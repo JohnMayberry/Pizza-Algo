@@ -1,2 +1,39 @@
 Step 1: Order the Pizza
-Step 2: Wait for the delivery
+    a) Choose size
+        Small
+        Medium 
+        Large
+    b) Choose cheese
+        Shredded Mozarrella
+        Fresh Mozarrella
+        Ricotta
+        Parmesean
+    c) Choose sauce
+        Red
+        White   
+        Pesto
+    d) Choose meats
+        Pepperoni
+        Italian Sausage
+        Ground Beef
+        Ham
+        Chicken
+        Bacon
+    e) Choose veggies
+        Bell Pepper
+        Olives
+        Tomato
+        Onion
+        Spinach
+        Mushroom
+Step 2: Choose How to Get Your Pizza
+    a) Pick up
+    b) delivery
+Step 3: Choose Payment Method
+    a) Card
+    b) Pay in store
+Step 4: Pick Up in Store or Wait for Delivery
+Step 5: Enjoy!
+
+
+    
